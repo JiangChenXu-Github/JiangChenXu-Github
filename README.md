@@ -1,4 +1,4 @@
-### Hi there 👋
+### 君子坐而论道，少年起而行之
 
 <!--
 **JiangChenXu-Github/JiangChenXu-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
